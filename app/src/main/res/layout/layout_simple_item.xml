@@ -6,9 +6,11 @@
 
     <TextView
         android:id="@+id/text_view"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Item 123"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/round_background"
+        android:gravity="center"
+        android:text="T"
         android:textSize="32sp"
         android:textColor="#f00"
         android:textStyle="italic"/>
